@@ -1,4 +1,4 @@
-README for My Day's Must Do's Application
+# README for My Day's Must Do's Application
 
 <h1> My Day's Must Do's</h1>
 This is a full stack application made by using MERN stack- MangoDB, Express, React and NodeJS. I created this application to increase my knowledge of MERN stack and get a real time experience of building a full stack application. The complete back end and front end of this application was built from scratch. 
