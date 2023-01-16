@@ -11,3 +11,5 @@ This is a full stack application made by using MERN stack- MangoDB, Express, Rea
 4. Go to ``localhost:3000/?`` in the browser to access the web application.
 
 <h1>Screenshots of the Application</h1>
+
+<img align="bottom" alt="Instructions" width="400" src="https://github.com/abdlaqeel/MyDaysMustDos-MERN-APP/blob/main/preview.png">
