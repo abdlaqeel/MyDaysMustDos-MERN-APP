@@ -6,8 +6,8 @@ This is a full stack application made by using MERN stack- MangoDB, Express, Rea
 <h1>How to Access the Application?</h1>
 
 1. Download the code and extract the data from .zip file.
-2. Use terminal to navigate to the server folder and run the MangoDB server by command ``npm start``
-3. Use terminal to navigate to the client folder and run the React front end by command ``npm start``
+2. Use terminal to navigate to the server folder and run the MangoDB server by command ``npm start``.
+3. Use terminal to navigate to the client folder and run the React front end by command ``npm start``.
 4. Go to ``localhost:3000/?`` in the browser to access the web application.
 
 <h1>Screenshots of the Application</h1>
